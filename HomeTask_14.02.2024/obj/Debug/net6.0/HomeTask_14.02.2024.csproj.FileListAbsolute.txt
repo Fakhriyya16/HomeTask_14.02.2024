@@ -1,0 +1,14 @@
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\obj\Debug\net6.0\HomeTask_14.02.2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\obj\Debug\net6.0\HomeTask_14.02.2024.AssemblyInfoInputs.cache
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\obj\Debug\net6.0\HomeTask_14.02.2024.AssemblyInfo.cs
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\obj\Debug\net6.0\HomeTask_14.02.2024.csproj.CoreCompileInputs.cache
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\bin\Debug\net6.0\HomeTask_14.02.2024.exe
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\bin\Debug\net6.0\HomeTask_14.02.2024.deps.json
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\bin\Debug\net6.0\HomeTask_14.02.2024.runtimeconfig.json
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\bin\Debug\net6.0\HomeTask_14.02.2024.dll
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\bin\Debug\net6.0\HomeTask_14.02.2024.pdb
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\obj\Debug\net6.0\HomeTask_14.02.2024.dll
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\obj\Debug\net6.0\refint\HomeTask_14.02.2024.dll
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\obj\Debug\net6.0\HomeTask_14.02.2024.pdb
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\obj\Debug\net6.0\HomeTask_14.02.2024.genruntimeconfig.cache
+D:\VS\HomeTask_14.02.2024\HomeTask_14.02.2024\obj\Debug\net6.0\ref\HomeTask_14.02.2024.dll
